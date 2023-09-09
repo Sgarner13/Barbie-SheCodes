@@ -11,6 +11,9 @@ h1 {
 }
 .Introductory-paragraph {
   font-family: var(--main-text-font-family);
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 35px;
 }
 .carousel-label,
 .carousel-info {
