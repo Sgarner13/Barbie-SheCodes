@@ -9,6 +9,9 @@ h1 {
   font-family: var(--lobster-2-font-family);
   color: var(--primary-color);
 }
+.Introductory-paragraph {
+  font-family: var(--main-text-font-family);
+}
 .carousel-label,
 .carousel-info {
   color: var(--primary-color);
