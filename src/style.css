@@ -9,6 +9,7 @@ h1 {
   font-family: var(--lobster-2-font-family);
   color: var(--primary-color);
 }
+
 .Introductory-paragraph {
   font-family: var(--main-text-font-family);
   text-align: center;
@@ -21,4 +22,7 @@ h1 {
   font-family: var(--main-text-font-family);
   background-color: #fff;
   border-radius: 25px;
+}
+#clip-image {
+  clip-path: circle(50% at 50% 50%);
 }
